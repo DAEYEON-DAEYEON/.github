@@ -1,12 +1,16 @@
-## Hi there 👋
+# 저요!🙋🏻‍♂️ (JeoYO!)
 
-<!--
+## 2024년도 하계 OSS 해커톤 + 씨애랑 소프트웨어 전시회. Team 대연대연
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 팀원
+- 19 김대현(팀장/BE)
+- 20 연예림(FE)
+
+
+## 시연 동영상(프로토타입)
+https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d
+
+
+### Contact
+김대현: rlaeogus9269@naver.com
