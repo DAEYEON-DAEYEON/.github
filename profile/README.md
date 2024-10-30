@@ -8,9 +8,12 @@
 - 20 연예림(FE)
 
 
-## 시연 동영상(프로토타입)
+## 시연 동영상
+- (프로토타입)
 https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d
 
+- 완성본
+https://youtu.be/fB6TveUo6p8?si=zIzpm9K1bT9-JCdG
 
 ### Contact
 김대현: rlaeogus9269@naver.com
