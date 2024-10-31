@@ -15,5 +15,9 @@ https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d
 - 완성본
 https://youtu.be/fB6TveUo6p8?si=zIzpm9K1bT9-JCdG
 
+- 팜플렛
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/93145944-50fe-42a3-b754-fc81e63bc9ab">
+
+
 ### Contact
 김대현: rlaeogus9269@naver.com
