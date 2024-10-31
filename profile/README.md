@@ -3,11 +3,11 @@
 ### 2024년도 하계 OSS 해커톤 + 씨애랑 소프트웨어 전시회. Team 대연대연
 
 ## 팀원
- 19 김대현 (팀장/BE)
+- 19 김대현 (팀장/BE)
 <a href = "https://github.com/LifeIsRightward"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
- 20 연예림 (FE)
+- 20 연예림 (FE)
 <a href = "https://github.com/yinneu"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
