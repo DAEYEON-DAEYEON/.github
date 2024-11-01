@@ -11,6 +11,11 @@
 <a href = "https://github.com/yinneu"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
+## 개발 배경
+
+
+
+
 ## 시연 동영상
 - <a href="https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d">(프로토타입) 보러가기</a> <br>
 - <a href="https://youtu.be/fB6TveUo6p8?si=zIzpm9K1bT9-JCdG"> 완성본 보러가기</a> <br>
