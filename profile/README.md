@@ -34,7 +34,7 @@
 
 
 ## 시연 동영상
-- <a href="https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d">(프로토타입) 보러가기</a> <br>
+- <a href="https://youtu.be/mnbGxXkverY?si=3euriHbqkCEslG0d">(프로토타입) 보러가기</a> <br> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 - <a href="https://youtu.be/fB6TveUo6p8?si=zIzpm9K1bT9-JCdG"> 완성본 보러가기</a> <br>
 <!-- [![시연영상](http://img.youtube.com/vi/fB6TveUo6p8/0.jpg)](https://youtu.be/fB6TveUo6p8?si=zIzpm9K1bT9-JCdG) -->
 
