@@ -1,8 +1,8 @@
 # 저요!🙋🏻‍♂️ (JeoYO!)
 
- - > ## 제품과 서비스를 경매방식으로 좀 더 싸게 살 수 있게, 좀 더 비싸게 팔 수 있게! 
+> ### 제품과 서비스를 경매방식으로 좀 더 싸게 살 수 있게, 좀 더 비싸게 팔 수 있게!
 
-## 팀원 (2024년도 씨애랑 소프트웨어 전시회. Team 대연대연) 
+## Team 대연대연
 - 19 김대현 (팀장/BE)
 <a href = "https://github.com/LifeIsRightward"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
@@ -42,3 +42,6 @@
 
 ### Contact
 김대현: rlaeogus9269@naver.com
+
+
+@2024년도 씨애랑 소프트웨어 전시회 
